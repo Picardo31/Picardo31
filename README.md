@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# It´s Ricardo
+## _Here are some of my Projects,_
+
+Repository of projects and works
+
+- Arduino, Matlab, Simulink, Mathematica
+- Python, Js, C++, HTML, CSS, Wordpress
+- ✨Manformatic, electronics and mechanics    ✨ 
+
+
+
 <!--
 **Picardo31/Picardo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
