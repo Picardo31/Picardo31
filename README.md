@@ -6,8 +6,8 @@
 Repository of projects and works
 
 - Arduino, Matlab, Simulink, Mathematica
-- Python, Js, C++, HTML, CSS, Wordpress
-- ✨Manformatic, electronics and mechanics    ✨ 
+- Python, Js, C++, CSS, Wordpress
+- ✨Informatic, electronics and mechanics    ✨ 
 
 
 
